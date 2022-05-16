@@ -4,6 +4,10 @@
   ![header](https://capsule-render.vercel.app/api?type=waving&color=02e5ed&height=200&section=header&text=A%20Brief%20Introduction&fontColor=ffffff&fontAlignY=30&fontSize=35&desc=of%20JeongHyewon's%20github😎&descAlignY=50&animation=fadeIn)
 
 
+  # 📑Portfolio📑
+  ### [See Hyewon's Portfolio](portfolio.pdf)
+  <br><br>
+  
   
   # 👩‍💻Skills👩‍💻
   
