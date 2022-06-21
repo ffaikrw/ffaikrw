@@ -5,7 +5,7 @@
 
 
   # 📑Portfolio📑
-  ### [See Hyewon's Portfolio](정혜원_portfolio.pdf)
+  ### [See Hyewon's Portfolio](JeongHyewon_portfolio.pdf)
   <br><br>
   
   
