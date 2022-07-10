@@ -6,7 +6,7 @@
 
   # 📑Portfolio📑
   ### [PDF ver.](JeongHyewon_portfolio.pdf)
-  ### [notion ver.](https://modern-detective-6d2.notion.site/JeongHyewon-s-Portfolio-0f9cde8a221d466ab9bd3ee418b3b045)
+  ### [notion ver.](https://spring-okra-f58.notion.site/Portfolio-7d2f4706ba6245038ab681de49a2809e)
   <br><br>
   
   
